@@ -43,9 +43,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amantur-s&theme=highcontrast)](https://git.io/streak-stats)
-</div>
-<div>
 ![Amantur's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantur-s&theme=codeSTACKr&show_icons=true)
-</div>
