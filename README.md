@@ -11,12 +11,15 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-  <h1>
-  Amantur Saamaibekov
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
+
+<div align="center">
+   <h1>
+     Amantur Saamaibekov
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   </h1>
+</div>
 
 
 ---
