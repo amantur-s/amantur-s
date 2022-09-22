@@ -15,7 +15,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
+I am a beginner Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 - 🔭 I’m student and contributing to frontend for building web applications
 - ⚡ In my free time, I solve problems on codewars and read tech articles.
 
