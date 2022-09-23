@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=36&duration=2000&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Hi+there+%2C+i'm+Amantur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=36&duration=3000&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Hi+there+%2C+i'm+Amantur;I'm+beginner+Frontend+developer)](https://git.io/typing-svg)
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/amantur-s/">
