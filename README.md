@@ -1,5 +1,6 @@
 <div id="header" align="center">
- <h1> Hi, i'm Amantur! 👋🏻</h1>
+<h1 align="center">Hi there, I'm Amantur 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/amantur-s/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
