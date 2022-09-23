@@ -1,6 +1,5 @@
- 
-<div id="header" align="center">
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=36&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Hi++there+%2C+i'm+Amantur.)](https://git.io/typing-svg)
+<div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/amantur-s/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
