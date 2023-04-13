@@ -39,4 +39,3 @@ I am a beginner Frontend Developer from Kyrgyzstan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm"width="45" height="45"/>&nbsp;
 </div>
 
----
