@@ -15,12 +15,6 @@
 </div>
 
 
-### :man_technologist: About Me :
-I am a beginner Frontend Developer from Kyrgyzstan.
-- 🔭 I’m student and contributing to frontend for building web applications
-- ⚡ In my free time, I solve problems on codewars and read tech articles.
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
